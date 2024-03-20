@@ -1,5 +1,5 @@
-# hs-code-generator
-This repository contains sample code for usage of the HS-code generator by CODICI, https://www.codi.ci/
+# hs-code-advisor
+This repository contains sample code for usage of the HS-code advisor by CODICI, https://codi.ci/
 
 The sample codes in different languages are there to get you started and by no means complete code.
 
